@@ -1,0 +1,8 @@
+D:\bridgelabz\LineCamparision\LineCamparision\bin\Debug\LineCamparision.exe.config
+D:\bridgelabz\LineCamparision\LineCamparision\bin\Debug\LineCamparision.exe
+D:\bridgelabz\LineCamparision\LineCamparision\bin\Debug\LineCamparision.pdb
+D:\bridgelabz\LineCamparision\LineCamparision\obj\Debug\LineCamparision.csproj.AssemblyReference.cache
+D:\bridgelabz\LineCamparision\LineCamparision\obj\Debug\LineCamparision.csproj.SuggestedBindingRedirects.cache
+D:\bridgelabz\LineCamparision\LineCamparision\obj\Debug\LineCamparision.csproj.CoreCompileInputs.cache
+D:\bridgelabz\LineCamparision\LineCamparision\obj\Debug\LineCamparision.exe
+D:\bridgelabz\LineCamparision\LineCamparision\obj\Debug\LineCamparision.pdb
