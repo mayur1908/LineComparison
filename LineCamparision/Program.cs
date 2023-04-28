@@ -11,7 +11,8 @@ namespace LineCamparision
         public static void Main(string[] args)
         {
             Console.WriteLine("WellCome to Line Camparision Problem");
-
+            LineAndLengthCalculator.LineLengthcalculator();
+            Console.ReadKey();
         }
     }
 }
